@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "2ffd5e2cc47c5b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb20f131249d83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c4f24593e35402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Articles - 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Articles - 2024"
+            }
+          },
+          {
+            "id": "e066a3c3a474ccb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Authors/Elisabeth Zerofsky.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elisabeth Zerofsky"
+            }
+          },
+          {
+            "id": "a1bb2b558d4a1abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Podcasts/Dan Pfeiffer - Mystery Drones, Corporate Lackeys & Resistance 2.0.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dan Pfeiffer - Mystery Drones, Corporate Lackeys & Resistance 2.0"
+            }
+          },
+          {
+            "id": "e48150d0b553591a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Television/Television - 2025.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Television - 2025"
+            }
+          },
+          {
+            "id": "872a36c01d7828ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Authors/David Marchese.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "David Marchese"
+            }
+          },
+          {
+            "id": "c68ab958cd7dda9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Books/Unspeakable Women.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Unspeakable Women"
+            }
+          },
+          {
+            "id": "12850d6fb29e22f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Media/Publication/404 Media.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "404 Media"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0384d4bf4b2d2600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644a0b69fba1fac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Articles - 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Articles - 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64699c34db5016bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f6030a242a32de",
+        "type": "tabs",
+        "dimension": 21.668472372697725,
+        "children": [
+          {
+            "id": "df4e93b58a90bb9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed989dab5c0c0299",
+        "type": "tabs",
+        "dimension": 78.33152762730228,
+        "children": [
+          {
+            "id": "1b6f7742de14795e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a95fe637d700aa66",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "7dde5a8edc79f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "5b7a97819995f11f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f950800603c5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "855460181f3915cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Articles/Articles - 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Articles - 2024"
+            }
+          },
+          {
+            "id": "b7be2de4f07f08f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Articles/Articles - 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Articles - 2024"
+            }
+          },
+          {
+            "id": "42d9affa538451c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b5d42c38e768e26",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0e68bc59cd5dfd22",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b5d7f3ae610e89e1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "markdown-importer:Open format converter": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c68ab958cd7dda9b",
+  "lastOpenFiles": [
+    "Links/DOGE Is Hacking America.md",
+    "Links/Montaigne.md",
+    "Articles/Articles - 2025.md",
+    "Media/Articles/The Government's Computing Experts Say They Are Terrified.md",
+    "Links/The Government’s Computing Experts Say They Are Terrified.md",
+    "Media/Authors/Ian Bogost.md",
+    "Links/Microsoft Study Finds AI Makes Human Cognition “Atrophied and Unprepared”.md",
+    "Links/How I Learned That the Problem in My Marriage Was Me - Listen on NYT Audio.md",
+    "Links/Trying To Undo A Coup, In The Courts.md",
+    "Media/Articles/Microsoft Study Finds AI Makes Human Cognition 'Atrophied and Unprepared'.md",
+    "Podcasts/Podcasts - 2025.md",
+    "Media/Publication/404 Media.md",
+    "Media/Authors/Emanuel Maiberg.md",
+    "Links/Forever ✱ Notes - A free framework for Apple Notes.md",
+    "Media/Podcasts/Dissecting Elon Musk's Hostile Takeover with Anne Applebaum, Eoin Higgins & Ryan Mac.md",
+    "Links/Why Gen X Women Are Having the Best Sex - Listen on NYT Audio.md",
+    "Links",
+    "__.md",
+    "Media/Podcasts/The Story of 'Not Like Us'.md",
+    "Media/Podcasts/Ezra Klein - Don't Call It A Coup - Yet.md",
+    "Media/Podcasts/Episode 309 - 100 Years.md",
+    "Media/Podcasts/Trump's American Takeover.md",
+    "Television/Television - 2025.md",
+    "Media/Watched/Television/Omnivore.md",
+    "Films/Films - 2025.md",
+    "Media/Articles/Digital Drugs Have Us Hooked - Dr Anna Lembke Sees A Way Out.md",
+    "Media/Publication/Amicus.md",
+    "Img/rpi.png",
+    "Img/dfw.jpeg",
+    "Img/bch.jpg",
+    "Img/im1.jpg",
+    "Img/dinesh.png",
+    "Img/hm1.jpeg",
+    "Media/Publishing House",
+    "Img/sb.jpeg",
+    "Img/IMG_7610.jpeg",
+    "Img/IMG_7610 copy.png",
+    "Img/IMG_7610.heic",
+    "Img/rb.jpeg",
+    "Img/ID Cards | UnitedHealthcare.pdf",
+    "publish.js",
+    "publish.css",
+    "theme.css",
+    " publish.css",
+    "publish1.css"
+  ]
+}

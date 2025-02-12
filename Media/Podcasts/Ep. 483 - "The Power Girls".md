@@ -1,0 +1,12 @@
+### Information
+
+Episode:: [[Ep. 483 - "The Power Girls"]]
+Podcast:: [[Roderick on the Line]]
+URL:: http://www.merlinmann.com/roderick/ep-483-the-power-girls.html
+Date:: [[2022-12-06]]
+Tags:: #roderick #merlinmann
+#podcast
+
+
+### Annotations
+

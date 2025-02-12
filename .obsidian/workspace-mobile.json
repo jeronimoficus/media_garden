@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "2ffd5e2cc47c5b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c55f03bc957fac9",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a1ae337c4b1576d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0be06598fc4855d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Television/Television - 2024.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "29ee7df610107f6c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "239be206930d71d1",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e3b3f605fca46a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f05b12cb21cecf9b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "66c2e95fdc8caa41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#inprogress",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e032fffc74a72d9e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5b2f9bd70999ca36",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "6e398d271ebe9625",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "d75a28b2c7abbd61",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "7587ad5978e1760d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9989312580a43efe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Television/Television - 2024.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8915429cc96c74d7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Television/Television - 2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b0be06598fc4855d",
+  "lastOpenFiles": [
+    "Television/Television - 2022.md",
+    "Television/Television - 2023.md",
+    "Television/Television - 2024.md",
+    "Books/Books - 2024.md",
+    "Media/Books/War and Peace.md",
+    "Media/Authors/Leo Tolstoy.md",
+    "Img/lt.jpg",
+    "Books/Books - 2023.md",
+    "Media/Watched/Film/Sisu.md",
+    "Films/Films - 2023.md",
+    "2023 Review.md",
+    "Articles/Articles - 2023.md",
+    "Podcasts/Podcasts - 2023.md",
+    "Media/Books/A Fine Balance.md",
+    "Media/Authors/Joshua Cohen.md",
+    "Media/Authors/Claire Keegan.md",
+    "Media/Authors/Agustina Bazterrica.md",
+    "Media/Authors/Olivier Guez.md",
+    "Media/Authors/W. Somerset Maugham.md",
+    "Media/Authors/Vardis Fisher.md",
+    "Media/Authors/Jeremy Cooper.md",
+    "Media/Authors/Mieko Kanai.md",
+    "Media/Authors/Oskar Panizza.md",
+    "Unti tled.md",
+    "Media/Publication/WTF With Marc Maron.md",
+    "Media/Watched/Film/Bama Rush.md",
+    "publish.css",
+    "Media/Articles/Tim Robinson and the Golden Age of Cringe Comedy.md",
+    "Img/vf.jpg",
+    "Img/es.jpg",
+    "Img/ek.jpeg",
+    "Img/vh.jpg",
+    "Img/ha.jpg",
+    "Img/tc.jpg",
+    "Img/ck.png",
+    "Img/jb.jpg",
+    "Img/ka.jpeg",
+    "CSS/publish_old1.css",
+    "CSS/publish_serenity.css",
+    "CSS/publish_old3.css",
+    "CSS/publish1.css",
+    "CSS/publish_old7.css",
+    "CSS/publish_old4.css",
+    "CSS/publish_old6.css",
+    "Scripts/books.js",
+    "publish1.css"
+  ]
+}
