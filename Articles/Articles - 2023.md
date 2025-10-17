@@ -1,9 +1,7 @@
-Previously: [[Articles - 2022]]
-
 
 | #   | Title                                                                                                   | Publication                    | Author                                                  | Date           |
 | --- | ------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------- | -------------- |
-| 78  | **[[The Alarming Calm of the Biden Campaign]]**                                                         | *[[New York Magazine]]*        | [[Gabriel Debenedetti]]                                 | [[2023-12-19]]               |
+| 78  | **[[The Alarming Calm of the Biden Campaign]]**                                                         | *[[New York Magazine]]*        | [[Gabriel Debenedetti]]                                 | [[2023-12-19]] |
 | 77  | **[[The City That Just Might Decide the 2024 Election]]**                                               | *[[The New Republic]]*         | [[Dan Simmons]]                                         | [[2023-11-30]] |
 | 76  | **[[Golden Years]]**                                                                                    | *[[Slate]]*                    | [[Isobel Whitcomb]]                                     | [[2023-11-25]] |
 | 75  | **[[A Novel That Captures the Mind-Bending Early Weeks of Parenthood]]**                                | *[[The New Yorker]]*           | [[Audrey Wollen]]                                       | [[2023-11-10]] |
