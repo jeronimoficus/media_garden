@@ -1,5 +1,3 @@
-Previously: [[Films - 2022]]
-
 Reviews on a scale of ⭐⭐⭐⭐
 
 | #   | Film                                      | Watched        | Review   |

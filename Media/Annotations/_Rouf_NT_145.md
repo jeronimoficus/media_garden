@@ -1,3 +1,6 @@
+---
+Tags: "Tags:"
+---
 Tags: #quotes #spinoza #philosophy #stoicism
 Source: [[No Touching]] page 145
 ********************************************************

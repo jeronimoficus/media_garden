@@ -1,0 +1,68 @@
+formulas:
+  Author: link()
+  coverFormula: link(file.embeds[0])
+properties:
+  file.name:
+    displayName: Book
+  note.dv_Title:
+    displayName: Title
+  note.dv_Authors:
+    displayName: Author(s)
+  note.dv_Read:
+    displayName: Read
+  note.dv_Tags:
+    displayName: Tags
+  note.dv_Edition:
+    displayName: Edition
+  note.dv_Original Copyright:
+    displayName: Original Copyright
+  note.dv_Pages:
+    displayName: Pages
+  note.dv_Instagram:
+    displayName: Instagram
+  note.dv_Photo:
+    displayName: Cover
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Media/Books")
+        - dv_Read >= "2025-01-01"
+    order:
+      - dv_Title
+      - dv_Authors
+      - dv_Edition
+      - dv_Original Copyright
+      - dv_Pages
+      - dv_Tags
+      - dv_Instagram
+      - dv_Read
+      - formula.coverFormula
+      - coverUrl
+      - coverSmallUrl
+    sort:
+      - property: dv_Read
+        direction: DESC
+    columnSize:
+      note.dv_Title: 162
+    image: note.coverSmallUrl
+    imageFit: contain
+    imageAspectRatio: 0.95
+  - type: table
+    name: Books
+    filters:
+      and:
+        - file.folder == "Media/Books"
+        - |
+          file.authors != null
+    order:
+      - file.name
+      - file.links
+    sort:
+      - property: formula.Author
+        direction: DESC
+      - property: Authors
+        direction: ASC
+      - property: file.name
+        direction: ASC

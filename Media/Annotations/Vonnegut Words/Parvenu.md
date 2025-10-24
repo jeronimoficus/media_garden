@@ -1,3 +1,6 @@
+---
+Tags: "Tags:"
+---
 Tags: #vonnegutwords 
 Source: [[The Sirens of Titan]]
 ********************************************************

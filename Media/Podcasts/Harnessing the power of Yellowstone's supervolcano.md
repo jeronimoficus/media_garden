@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[Harnessing the power of Yellowstone's supervolcano]]"
+dv_Podcast: "[[Overheard at National Geographic]]"
+dv_URL: https://www.nationalgeographic.com/podcasts/article/episode-27-harnessing-the-power-of-yellowstones-supervolcano
+dv_Date: "[[2022-07-27]]"
+dv_Tags: "#volcano #energy #climatechange"
+---
 ### Information
 
 Episode:: [[Harnessing the power of Yellowstone's supervolcano]]

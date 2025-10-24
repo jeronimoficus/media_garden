@@ -1,3 +1,10 @@
+---
+dv_Episode: Dexter Filkins on the Rise of Ron Desantis
+dv_Podcast: "[[New Yorker Radio Hour]]"
+dv_URL: https://www.wnyc.org/widgets/ondemand_player/thenewyorker/?share=1#file=/audio/json/1219150/
+dv_Date: "[[2022-06-18]]"
+dv_Tags: "#politics #election24 #rondesantis"
+---
 ### Information
 
 Episode:: Dexter Filkins on the Rise of Ron Desantis

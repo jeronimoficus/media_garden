@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[A Uniquely American Problem]]"
+dv_Podcast: "[[Long Shadow - In Guns We Trust]]"
+dv_URL: https://podcasts.apple.com/us/podcast/long-shadow/id1577471264?i=1000651867678
+dv_Date: "[[2024-04-18]]"
+dv_Tags: "#guns #nra #2ndamendment"
+---
 ### Information
 
 Episode:: [[A Uniquely American Problem]]

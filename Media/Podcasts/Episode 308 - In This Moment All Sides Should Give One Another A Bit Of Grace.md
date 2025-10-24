@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[Episode 308 - In This Moment All Sides Should Give One Another A Bit Of Grace]]"
+dv_Podcast: "[[Election Profit Makers]]"
+dv_URL: https://podcasts.apple.com/us/podcast/election-profit-makers/id1136826256
+dv_Date: "[[2025-01-22]]"
+dv_Tags: "#bloodmeridien #trump"
+---
 ### Information
 
 Episode:: [[Episode 308 - In This Moment All Sides Should Give One Another A Bit Of Grace]]

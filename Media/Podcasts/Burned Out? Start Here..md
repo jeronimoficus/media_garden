@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[Burned Out? Start Here.]]"
+dv_Podcast: "[[The Ezra Klein Show]]"
+dv_URL: https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000682997984
+dv_Date: "[[2025-01-07]]"
+dv_Tags: "#burnout"
+---
 ### Information
 
 Episode:: [[Burned Out? Start Here.]] 

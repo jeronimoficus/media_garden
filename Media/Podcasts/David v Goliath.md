@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[David v Goliath]]"
+dv_Podcast: "[[Throughline]]"
+dv_URL: https://www.npr.org/2023/09/21/1198907970/throughline-draft-09-21-2023
+dv_Date: "[[2023-11-18]]"
+dv_Tags: "#history #islam"
+---
 ### Information
 
 Episode:: [[David v Goliath]]

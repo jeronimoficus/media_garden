@@ -1,4 +1,13 @@
-Title::  When We Cease to Understand the World
+---
+dv_Edition: New York Review of Books, 2020
+dv_Original Copyright: 2020
+dv_Pages: 188
+dv_Title: "[[When We Cease to Understand the World]]"
+dv_Authors: "[[Benjamin Labatut]]"
+dv_Tags: "#fiction #nonfiction #science #physics #books #mathematics"
+dv_Read: "[[2022-02-15]]"
+---
+Title::  [[When We Cease to Understand the World]]
 Authors::  [[Benjamin Labatut]]
 Tags::  #fiction #nonfiction #science #physics #books #mathematics
 Read::  [[2022-02-15]]

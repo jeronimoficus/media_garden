@@ -1,3 +1,6 @@
+---
+Tags: "Tags:"
+---
 Tags: #books #landscape #western #newmexico #quotes 
 Source: [[Death Comes for the Archbishop]]
 ********************************************************

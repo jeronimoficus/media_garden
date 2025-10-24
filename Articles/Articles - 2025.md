@@ -1,6 +1,9 @@
 
 | #   | Title                                                                                                         | Publication                    | Author                                                  | Date           |
 | --- | ------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------- | -------------- |
+| 44  | **[[A Tool That Crushes Creativity]]**                                                                        | *[[The Atlantic]]*             | [[Charlie Warzel]]                                      | [[2025-10-22]] |
+| 43  | **[[The Majority AI View]]**                                                                                  | *[[AnilDash.com]]*             | [[Anil Dash]]                                           | [[2025-10-21]] |
+| 42  | **[[Thomas Pynchon's World of Shadows]]**                                                                     | *[[UnHerd]]*                   | [[William T Vollmann]]                                  | [[2025-10-19]] |
 | 41  | **[[Who Goes Nazi?]]**                                                                                        | *[[Harper's Magazine]]*        | [[Dorothy Thompson]]                                    | [[2025-10-08]] |
 | 40  | **[[The Settlers Bursting Tel Aviv's Bubble]]**                                                               | *[[New Lines Magazine]]*       | [[Lisa Goldman]]                                        | [[2025-10-08]] |
 | 39  | **[[Four Men]]**                                                                                              | *[[Harper's Magazine]]*        | [[William T Vollmann]]                                  | [[2025-09-17]] |

@@ -1,3 +1,14 @@
+---
+dv_Edition:
+  - "[[Farrar, Straus and Giroux]]"
+  - 2020
+dv_Original Copyright: 2020
+dv_Pages: 368
+dv_Title: Owls of the Eastern Ice
+dv_Authors: "[[Jonathan Slaight]]"
+dv_Tags: "#nonfiction #russia #owls"
+dv_Read: 2021
+---
 Title::  Owls of the Eastern Ice
 Authors::  [[Jonathan Slaight]]
 Tags::  #nonfiction #russia #owls

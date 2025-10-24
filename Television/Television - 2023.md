@@ -1,8 +1,7 @@
-Previously: [[Television - 2022]]
 
 | #   | Show                                                   | Platform         | Status      |
 | --- | ------------------------------------------------------ | ---------------- | ----------- |
-| 22  | [[The Jinx The Life and Deaths of Robert Durst 1]]       | [[HBO Max]]      | #finished              |
+| 22  | [[The Jinx The Life and Deaths of Robert Durst 1]]     | [[HBO Max]]      | #finished   |
 | 21  | [[A Nearly Normal Family]]                             | [[Netflix]]      | #fineshed   |
 | 20  | [[Fauda]]                                              | [[Netflix]]      | #finished   |
 | 19  | [[Killing Eve]]                                        | [[HBO Max]]      | #abandoned  |

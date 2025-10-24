@@ -1,4 +1,13 @@
-Title:: Bewilderment
+---
+dv_Edition: "[[W.W. Norton]], 1st Edition, 2021"
+dv_Original Copyright: 2021
+dv_Pages: 288
+dv_Title: "[[Bewilderment]]"
+dv_Authors: "[[Richard Powers]]"
+dv_Tags: "#fiction #scifi"
+dv_Read: 2021
+---
+Title:: [[Bewilderment]]
 Authors:: [[Richard Powers]]
 Tags:: #fiction #scifi 
 Read:: 2021

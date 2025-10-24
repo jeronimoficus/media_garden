@@ -16,4 +16,4 @@ tag: #booktotv #postapocalypse
 ![poster](https://m.media-amazon.com/images/M/MV5BZDBmZWUwZTctMTI5My00ZjFiLTgyOWEtMzJiOTZhNmRhYTZhXkEyXkFqcGdeQXVyMTA1OTAyOTI@._V1_SX300.jpg)
 
 ### Annotations
-Adpoted from [[Station Eleven - book]]
+Adpoted from [[Station Eleven]]

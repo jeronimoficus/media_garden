@@ -1,3 +1,6 @@
+---
+Tags: "Tags:"
+---
 Tags: #quotes #self #hemingway 
 Source: [[The Nick Adams Stories]]
 ********************************************************

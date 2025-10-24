@@ -7,7 +7,11 @@ Instagram ::
 - Edition::
 - Original Copyright::
 - Pages::
-
 ## Purchase
 * Bookshop.org::
+
+## Cover Photo
+
+``
+
 ## Annotations

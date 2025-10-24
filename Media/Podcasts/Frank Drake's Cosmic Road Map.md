@@ -1,3 +1,10 @@
+---
+dv_Episode: "[[Frank Drake's Cosmic Road Map]]"
+dv_Podcast: "[[Overheard at National Geographic]]"
+dv_URL: https://podcasts.apple.com/us/podcast/overheard-at-national-geographic/id1466697207
+dv_Date: "[[2022-08-05]]"
+dv_Tags: "#aliens #space #science"
+---
 ### Information
 
 Episode:: [[Frank Drake's Cosmic Road Map]]
